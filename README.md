@@ -63,17 +63,10 @@
 
 ---
 
-## 🚀 Projetos em andamento
-
-- 🚑 Sistema de controle de pacientes para pronto-socorro  
-- 💧 Plataforma **AquaSense** – monitoramento inteligente de consumo de água  
-- 🐶 Startup fictícia no ramo pet com marketplace + IA
-
----
 
 ## ⚡ Curiosidades
 
-- 📷 Gosto de design, fotografia e interfaces bem feitas  
+- 📷 Gosto de design, fotografia e codigos bem feitas  
 - 💡 Sempre buscando soluções criativas com código  
 - 🤝 Aberto a colaborações e novas ideias  
 
