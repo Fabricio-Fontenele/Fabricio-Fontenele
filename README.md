@@ -66,7 +66,7 @@
 
 ## ⚡ Curiosidades
 
-- 📷 Gosto de design, fotografia e codigos bem feitas  
+- 📷 Gosto de design, fotografia e codigos bem feitos  
 - 💡 Sempre buscando soluções criativas com código  
 - 🤝 Aberto a colaborações e novas ideias  
 
