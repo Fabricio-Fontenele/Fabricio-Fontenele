@@ -65,7 +65,6 @@
 
 ---
 
-
 ## ⚡ Curiosidades
 
 - 📷 Gosto de design, fotografia e codigos bem feitos  
