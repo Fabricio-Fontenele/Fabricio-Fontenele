@@ -79,7 +79,8 @@
 </p>
 
 <!-- Snake Animation -->
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/capitaozila/capitaozila/output/pacman-contribution-graph.svg">
+ ![Pacman Contribution Graph](./output/pacman-contribution-graph-dark.svg)
+
 
 <p align="center">
   🚀 Obrigado por visitar meu perfil! Até logo!
