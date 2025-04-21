@@ -82,7 +82,5 @@
 <img src="https://raw.githubusercontent.com/Fabricio-Fontenele/Fabricio-Fontenele/output/snake.svg" alt="Snake animation" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fabricio-Fontenele&label=Visualizações&color=blue&style=flat" />
-  <br>
   🚀 Obrigado por visitar meu perfil! Até logo!
 </p>
