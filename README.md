@@ -79,7 +79,7 @@
 </p>
 
 <!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/Fabricio-Fontenele/Fabricio-Fontenele/output/snake.svg" alt="Snake animation" />
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/capitaozila/capitaozila/output/pacman-contribution-graph.svg">
 
 <p align="center">
   🚀 Obrigado por visitar meu perfil! Até logo!
