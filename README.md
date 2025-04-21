@@ -10,9 +10,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fabricio-Fontenele&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" />
 </div>
 
-<!-- Avatar -->
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanp6bDM0ZXRzc292MGY2dm0wZzlvank0OGR0djd0eDM1ejZobzJ3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2w5MMNvg70MrQ0I2DR/giphy.gif" />
-
 ---
 
 ## 🚀 Tecnologias e Ferramentas
@@ -76,6 +73,11 @@
 
 ---
 
+<!-- Avatar GIF -->
+<p align="center">
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanp6bDM0ZXRzc292MGY2dm0wZzlvank0OGR0djd0eDM1ejZobzJ3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2w5MMNvg70MrQ0I2DR/giphy.gif" />
+</p>
+
 <!-- Snake Animation -->
 <img src="https://raw.githubusercontent.com/Fabricio-Fontenele/Fabricio-Fontenele/output/snake.svg" alt="Snake animation" />
 
@@ -84,4 +86,3 @@
   <br>
   🚀 Obrigado por visitar meu perfil! Até logo!
 </p>
-
