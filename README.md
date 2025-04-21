@@ -79,7 +79,7 @@
 </p>
 
 <!-- Snake Animation -->
- ![Pacman Contribution Graph](./output/pacman-contribution-graph-dark.svg)
+ ![Pacman Contribution Graph](./pacman-contribution-graph-dark.svg)
 
 
 <p align="center">
