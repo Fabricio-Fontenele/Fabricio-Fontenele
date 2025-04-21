@@ -1,8 +1,7 @@
 <h1 align="center">Olá! 👋 Eu sou o Fabricio</h1>
 
 <p align="center">
-  🎓 Estudante de Sistemas de Informação na UESPI – Parnaíba<br>
-  💻 Full Stack Developer | Python, JavaScript, TypeScript | UI/UX & Linux Enthusiast
+  🎓 Estudante de Sistemas de computação na UESPI – Parnaíba<br>
 </p>
 
 <!-- GitHub Stats -->
