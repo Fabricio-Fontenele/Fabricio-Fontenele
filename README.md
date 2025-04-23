@@ -79,8 +79,8 @@
 </p>
 
 <!-- Snake Animation -->
-[![Pacman Contribution Graph](https://github.com/Fabricio-Fontenele/Fabricio-Fontenele/raw/output/pacman-contribution-graph-dark.svg)](https://fabricio-fontenele.github.io/Fabricio-Fontenele/github-snake-dark.svg?palette=github-dark
-)
+![Contributions Snake Dark](https://fabricio-fontenele.github.io/Fabricio-Fontenele/github-snake-dark.svg?palette=github-dark)
+
 
 
 
