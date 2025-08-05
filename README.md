@@ -15,14 +15,20 @@
 ## 🚀 Tecnologias e Ferramentas
 
 <div align="left">
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" style="background-color: white; border-radius: 4px;"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="Tailwind CSS" />
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="JavaScript" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" alt="TypeScript" />
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
@@ -32,6 +38,9 @@
   </a>
   <a href="https://vuejs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="Vue.js" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
   </a>
   <a href="https://www.sqlite.org/index.html" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="30" alt="SQLite" />
