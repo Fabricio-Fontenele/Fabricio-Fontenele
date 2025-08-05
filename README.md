@@ -22,8 +22,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" style="background-color: white; border-radius: 4px;"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="Tailwind CSS" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="Tailwind CSS" style="background-color: #fff; border-radius: 4px; padding: 2px;" />
+</a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="JavaScript" />
   </a>
