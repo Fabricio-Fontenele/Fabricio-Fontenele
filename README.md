@@ -15,6 +15,7 @@
 ## 🚀 Tecnologias e Ferramentas
 
 <div align="left">
+  <!-- Front-end -->
   <a href="https://react.dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" style="margin: 5px; background-color: white; border-radius: 4px; padding: 2px;" />
   </a>
@@ -39,12 +40,21 @@
   <a href="https://vuejs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="Vue.js" style="margin: 5px; background-color: white; border-radius: 4px; padding: 2px;" />
   </a>
+
+  <!-- Back-end -->
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" style="margin: 5px; background-color: white; border-radius: 4px; padding: 2px;" />
+  </a>
+
+  <!-- Bancos de dados -->
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" style="margin: 5px; background-color: white; border-radius: 4px; padding: 2px;" />
   </a>
   <a href="https://www.sqlite.org/index.html" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="30" alt="SQLite" style="margin: 5px; background-color: white; border-radius: 4px; padding: 2px;" />
   </a>
+
+  <!-- Ferramentas -->
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" style="margin: 5px; background-color: white; border-radius: 4px; padding: 2px;" />
   </a>
@@ -58,6 +68,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" style="margin: 5px; background-color: white; border-radius: 4px; padding: 2px;" />
   </a>
 </div>
+
 
 ---
 
