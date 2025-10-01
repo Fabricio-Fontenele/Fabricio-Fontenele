@@ -23,9 +23,11 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-F05454?style=for-the-badge&logo=none)
 
 ---
 
@@ -43,6 +45,7 @@
 - 🔥 Improving back-end with **Node.js and clean architecture**  
 - 🌐 Mastering **Next.js** for full stack apps  
 - 📊 Applying **Machine Learning** to real-world projects  
+- 🏆 Strengthening **C++ & Competitive Programming** skills  
 - 🐧 Deepening knowledge in **Linux and DevOps**
 
 ---
@@ -65,6 +68,7 @@
 
 - 🚀 Full Stack Dev focused on **Node.js and Next.js**  
 - 📊 Currently diving into **Data Science & Machine Learning**  
+- 🏆 C++ enthusiast and **competitive programmer**  
 - 🛠️ Passionate about building **scalable and practical solutions**  
 - 🤝 Always open to collaborations and new challenges  
 
