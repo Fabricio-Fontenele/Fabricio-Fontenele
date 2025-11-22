@@ -52,7 +52,7 @@
 <a href="https://www.linkedin.com/in/fabricio-fontenele-302975333/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
 </a>
-<a href="https://fabricio-portifolio.netlify.app/" target="_blank">
+<a href="https://fabriciofontenele.com.br" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-00A98F?style=for-the-badge&logo=githubpages&logoColor=white" height="35" />
 </a>
 <a href="https://www.instagram.com/_fabriciovieira_a/" target="_blank">
