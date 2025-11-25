@@ -56,8 +56,8 @@ I'm a developer focused on performance, clean code, and solving real-world probl
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fabricio-Fontenele&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fabricio-Fontenele&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fabricio-Fontenele&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Fabricio-Fontenele&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117" height="180" />
 </div>
 
 <div align="center">
