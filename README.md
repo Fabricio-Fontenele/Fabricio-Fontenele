@@ -15,7 +15,7 @@
     <a href="https://fabriciofontenele.com.br" target="_blank">
       <img src="https://img.shields.io/badge/-Portfolio-00A98F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="https://www.instagram.com/_fabriciovieira_a/" target="_blank">
+    <a href="https://www.instagram.com/fabriciofontenele_/" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="mailto:fabriciof.dev@gmail.com" target="_blank">
