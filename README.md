@@ -77,7 +77,7 @@ I'm a developer focused on performance, clean code, and solving real-world probl
 ---
 
 <div align="center">
-  <img src="https://fabricio-fontenele.github.io/Fabricio-Fontenele/github-snake-dark.svg?palette=github-dark" width="100%" />
+  <img src="game.gif" alt="Meu GitHub Game" />
 </div>
 
 <p align="center">
