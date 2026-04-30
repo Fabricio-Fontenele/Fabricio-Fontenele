@@ -1,85 +1,117 @@
 <div align="center">
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hey!+I'm+Fabricio;Full+Stack+Developer;Data+Science+%26+AI;System+Optimization;Building+Scalable+Solutions" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Fabricio+Fontenele;Backend-First+Developer;DDD+%7C+Clean+Architecture+%7C+SOLID;Building+systems+that+age+well" alt="Typing SVG" />
 
   <p>
-    <em>Computer Systems Student at UESPI | Turning caffeine into code</em>
+    <em>Computer Systems student at UESPI | Code with intention, architecture with criteria.</em>
   </p>
 
   <p>
     <a href="https://www.linkedin.com/in/fabricio-fontenele-302975333/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://fabriciofontenele.com.br" target="_blank">
-      <img src="https://img.shields.io/badge/-Portfolio-00A98F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://www.instagram.com/fabriciofontenele_/" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+      <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=22C55E" alt="Portfolio" />
     </a>
     <a href="mailto:fabriciof.dev@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 </div>
 
+---
+
+## ⚡ About me
+
+I am a software engineering-focused developer who cares less about code that "just works now" and more about systems that will still make sense months or years from now. 
+
+My energy goes into designing robust, cohesive, and easy-to-evolve systems. My daily focus involves:
+
+- **Well-modeled backend** in the Node.js ecosystem (TypeScript, NestJS, Fastify, Prisma, Zod).
+- **Domain-Driven Design (DDD)** and explicit business rules.
+- **Clean Architecture** and **SOLID** principles applied with criteria, without overengineering.
+- Building APIs, integrations, and scalable systems using relational databases like PostgreSQL and Supabase.
+
+---
+
+## 🧠 How I think about software
+
+> *"Clean code without context is not enough. Beautiful architecture without delivery is not enough. Performance without readability charges interest."*
+
+My goal when starting a project is always: **understand the domain ➔ model it well ➔ deliver value ➔ and leave the system better than I found it.**
+
 <br>
 
----
-
-### ⚡ About Me
-
-<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanp6bDM0ZXRzc292MGY2dm0wZzlvank0OGR0djd0eDM1ejZobzJ3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2w5MMNvg70MrQ0I2DR/giphy.gif" width="200" />
-
-I'm a developer focused on performance, clean code, and solving real-world problems. I don't just write code; I build systems.
-
-- 💻 **Main Focus:** Crafting robust web apps with **Next.js** & **Node.js**.
-- 🧠 **Data Science:** Developing predictive models and **AI-driven solutions**.
-- 🐧 **OS:** I run **Arch Linux** (btw), optimizing every bit of hardware.
-- 🚀 **Goal:** Delivering software that is scalable, maintainable, and fast.
-
-<br clear="all" />
-
----
-
-### 🛠️ The Arsenal
-
 <div align="center">
-
-| **Languages** | **Data Science & AI** | **Web Stack** | **Infra & Database** |
-| :---: | :---: | :---: | :---: |
-| <a href="https://www.python.org/doc/" target="_blank">![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)</a> <br> <a href="https://www.typescriptlang.org/docs/" target="_blank">![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)</a> <br> <a href="https://docs.oracle.com/en/java/" target="_blank">![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)</a> | <a href="https://pandas.pydata.org/docs/" target="_blank">![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)</a> <br> <a href="https://numpy.org/doc/" target="_blank">![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)</a> <br> <a href="https://scikit-learn.org/stable/documentation.html" target="_blank">![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)</a> | <a href="https://nextjs.org/docs" target="_blank">![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)</a> <br> <a href="https://react.dev/" target="_blank">![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</a> <br> <a href="https://nodejs.org/en/docs/" target="_blank">![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)</a> | <a href="https://docs.docker.com/" target="_blank">![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)</a> <br> <a href="https://www.postgresql.org/docs/" target="_blank">![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)</a> <br> <a href="https://www.kernel.org/doc/html/latest/" target="_blank">![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)</a> |
-
-</div>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fabricio-Fontenele&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" height="180" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Fabricio-Fontenele&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117" height="180" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://streak-stats.demolab.com?user=Fabricio-Fontenele&theme=radical&hide_border=true&bg_color=0D1117&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://media.giphy.com/media/xT9DPpf0zTqRASyzTi/giphy.gif" width="250" alt="Darth Vader" />
+  <p><em>"I find your lack of Clean Architecture disturbing."</em></p>
 </div>
 
 ---
 
-### 🚀 Featured Projects
+## 🛠️ Stack & Ecosystem
 
-| Project                                                             | Tech Stack                  | Description                                           |
-| :------------------------------------------------------------------ | :-------------------------- | :---------------------------------------------------- |
-| 🛒 [**Ecommerce**](https://github.com/Fabricio-Fontenele/Ecommerce) | `Next.js` `Stripe` `Prisma` | Full-stack platform with secure payments & dashboard. |
-| 💈 [**BarberHub**](https://github.com/Fabricio-Fontenele/BarberHub) | `Next.js` `Tailwind`        | Smart booking system for modern barbershops.          |
+<div align="center">
+
+**Languages & Core Backend** <br>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
+![Vitest](https://img.shields.io/badge/-Vitest-729B1B?style=for-the-badge&logo=vitest&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
+
+**Data & Infrastructure** <br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111)
+
+</div>
+
+### 📚 Currently exploring:
+- Domain-Driven Design (DDD) and Clean Architecture in practice.
+- Good abstractions and defining system boundaries.
+- Testing workflows, contracts, and safe API evolution.
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Tech Stack | About |
+| :-- | :-- | :-- |
+| [**Gympass API (Clone)**](https://github.com/Fabricio-Fontenele/API-SOLID) | `Fastify` `Clean Arch` | Robust REST API inspired by Gympass, focused on domain isolation and practical application of Clean Architecture. |
+| [**Ecommerce**](https://github.com/Fabricio-Fontenele/Ecommerce) | `Next.js` `Stripe` `Prisma` | Full-stack platform with payment flow, dashboard, and real concern for structure. |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fabricio-Fontenele&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=22C55E&icon_color=22C55E&text_color=C9D1D9&bg_color=0D1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Fontenele&layout=compact&langs_count=8&hide_border=true&title_color=22C55E&text_color=C9D1D9&bg_color=0D1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Fabricio-Fontenele&theme=black-ice&hide_border=true&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" />
+</div>
+
+---
+
+## ☕ Beyond the code
+
+- **Setup:** I use Arch Linux with KDE Plasma + Wayland. My environment is optimized so it doesn't get in my way (Ghostty terminal, IntelliJ IDEA, and VS Code with Copilot).
+- I like to understand the gears of the environment I'm running on, from the OS down to the hardware.
+- I enjoy optimizing workflows, testing new tools, and discussing systems that age well.
 
 ---
 
 <div align="center">
-  <img src="game.gif" alt="Meu GitHub Game" />
+  <img src="./game.gif" width="100%" alt="GitHub contribution space shooter" />
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff" width="100%"/>
-</p>
+<div align="center">
+  <sub>
+    If you like backend, architecture, well-thought-out systems, and good discussions about software engineering, let's talk.
+  </sub>
+</div>
