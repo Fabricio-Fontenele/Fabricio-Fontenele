@@ -100,9 +100,9 @@ My goal when starting a project is always: **understand the domain ➔ model it 
 
 ## ☕ Beyond the code
 
-- **Setup:** I use Arch Linux with KDE Plasma + Wayland. My environment is optimized so it doesn't get in my way (Ghostty terminal, IntelliJ IDEA, and VS Code with Copilot).
-- I like to understand the gears of the environment I'm running on, from the OS down to the hardware.
-- I enjoy optimizing workflows, testing new tools, and discussing systems that age well.
+- **Setup:** I use Arch Linux with KDE Plasma + Wayland and keep my development environment tuned for focus, speed, and reliability. My daily workflow includes Ghostty, IntelliJ IDEA, VS Code, and Codex for code review, refactoring, and workflow acceleration.
+- I like understanding the systems I work with beyond the code itself, from the operating system and tooling to how things behave closer to the hardware.
+- I enjoy refining workflows, testing new tools, and building software with maintainability, clarity, and long-term evolution in mind.
 
 ---
 
