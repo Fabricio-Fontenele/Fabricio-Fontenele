@@ -88,8 +88,8 @@ My goal when starting a project is always: **understand the domain ➔ model it 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fabricio-Fontenele&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=22C55E&icon_color=22C55E&text_color=C9D1D9&bg_color=0D1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Fontenele&layout=compact&langs_count=8&hide_border=true&title_color=22C55E&text_color=C9D1D9&bg_color=0D1117" />
+  <img height="170" src="https://meu-github-readme-stats-git-main-fabricio-fonteneles-projects.vercel.app/api?username=Fabricio-Fontenele&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=22C55E&icon_color=22C55E&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="170" src="https://meu-github-readme-stats-git-main-fabricio-fonteneles-projects.vercel.app/api/top-langs/?username=Fabricio-Fontenele&layout=compact&langs_count=8&hide_border=true&title_color=22C55E&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 <div align="center">
