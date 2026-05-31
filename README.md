@@ -78,25 +78,25 @@ My goal when starting a project is always: **understand the domain ➔ model it 
 
 ## 🚀 Featured Projects
 
-| Project | Tech Stack | About |
-| :-- | :-- | :-- |
-| [**Gympass API (Clone)**](https://github.com/Fabricio-Fontenele/API-SOLID) | `Fastify` `Clean Arch` | Robust REST API inspired by Gympass, focused on domain isolation and practical application of Clean Architecture. |
-| [**Ecommerce**](https://github.com/Fabricio-Fontenele/Ecommerce) | `Next.js` `Stripe` `Prisma` | Full-stack platform with payment flow, dashboard, and real concern for structure. |
+| Project                                                                    | Tech Stack                  | About                                                                                                             |
+| :------------------------------------------------------------------------- | :-------------------------- | :---------------------------------------------------------------------------------------------------------------- |
+| [**Gympass API (Clone)**](https://github.com/Fabricio-Fontenele/API-SOLID) | `Fastify` `Clean Arch`      | Robust REST API inspired by Gympass, focused on domain isolation and practical application of Clean Architecture. |
+| [**Ecommerce**](https://github.com/Fabricio-Fontenele/Ecommerce)           | `Next.js` `Stripe` `Prisma` | Full-stack platform with payment flow, dashboard, and real concern for structure.                                 |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://meu-github-readme-stats-git-main-fabricio-fonteneles-projects.vercel.app/api?username=Fabricio-Fontenele&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=22C55E&icon_color=22C55E&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="170" src="https://meu-github-readme-stats-git-main-fabricio-fonteneles-projects.vercel.app/api/top-langs/?username=Fabricio-Fontenele&layout=compact&langs_count=8&hide_border=true&title_color=22C55E&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages" />
+  <img height="170" src="https://meu-github-readme-stats-nu.vercel.app/api?username=Fabricio-Fontenele&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=22C55E&icon_color=22C55E&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="170" src="https://meu-github-readme-stats-nu.vercel.app/api/top-langs/?username=Fabricio-Fontenele&layout=compact&langs_count=8&hide_border=true&title_color=22C55E&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Fabricio-Fontenele&theme=black-ice&hide_border=true&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" />
 </div>
 
----
+--- 
 
 ## ☕ Beyond the code
 
