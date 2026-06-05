@@ -78,10 +78,11 @@ My goal when starting a project is always: **understand the domain ➔ model it 
 
 ## 🚀 Featured Projects
 
-| Project                                                                    | Tech Stack                  | About                                                                                                             |
-| :------------------------------------------------------------------------- | :-------------------------- | :---------------------------------------------------------------------------------------------------------------- |
-| [**Gympass API (Clone)**](https://github.com/Fabricio-Fontenele/API-SOLID) | `Fastify` `Clean Arch`      | Robust REST API inspired by Gympass, focused on domain isolation and practical application of Clean Architecture. |
-| [**Ecommerce**](https://github.com/Fabricio-Fontenele/Ecommerce)           | `Next.js` `Stripe` `Prisma` | Full-stack platform with payment flow, dashboard, and real concern for structure.                                 |
+| Project | Tech Stack | About |
+| :------ | :--------- | :---- |
+| [**Ouvidoria UESPI**](https://github.com/Fabricio-Fontenele/Ouvidoria-UESPI) | `TypeScript` `Fastify` `React` `PostgreSQL` `LangChain` `RAG` | Production-oriented institutional ombudsman system with backend, frontend, authentication, manifestation management, role-based access control, and an AI-powered assistant. |
+| [**Gympass API (Clone)**](https://github.com/Fabricio-Fontenele/API-SOLID) | `Fastify` `Clean Arch` `Prisma` | Robust REST API inspired by Gympass, focused on domain isolation, SOLID principles, and practical application of Clean Architecture. |
+| [**Ecommerce**](https://github.com/Fabricio-Fontenele/Ecommerce) | `Next.js` `Stripe` `Prisma` | Full-stack ecommerce platform with payment flow, dashboard, and a strong focus on structure and maintainability. |
 
 ---
 
